@@ -665,3 +665,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-15.20.01:273][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.04.07-15.20.07:352][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
 [2020.04.07-15.20.31:817][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.07-15.21.18:103][285]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.07-15.21.19:775][477]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.07-15.21.23:286][882]LogSlate: Window 'Open Level' being destroyed
