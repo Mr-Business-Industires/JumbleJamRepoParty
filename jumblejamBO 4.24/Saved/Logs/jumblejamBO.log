@@ -5804,3 +5804,7 @@ Make sure 'FirstPersonExampleMap_C' has been compiled for  Get SFX_INS_14_Long_W
 [2020.04.08-16.59.49:748][363]LogRenderer: Reallocating scene render targets to support 1760x1224 Format 10 NumSamples 1 (Frame:801684).
 [2020.04.08-17.01.20:643][211]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
 [2020.04.08-17.03.48:173][481]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2020.04.08-17.08.12:269][255]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.08-17.08.38:358][799]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.08-17.08.52:117][840]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.08-17.27.46:313][547]LogAudioMixer: Display: Audio Buffer Underrun detected.
