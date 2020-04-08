@@ -5808,3 +5808,9 @@ Make sure 'FirstPersonExampleMap_C' has been compiled for  Get SFX_INS_14_Long_W
 [2020.04.08-17.08.38:358][799]LogAudioMixer: Display: Audio Buffer Underrun detected.
 [2020.04.08-17.08.52:117][840]LogAudioMixer: Display: Audio Buffer Underrun detected.
 [2020.04.08-17.27.46:313][547]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.08-17.40.23:413][162]LogUObjectHash: Compacting FUObjectHashTables data took  19.08ms
+[2020.04.08-17.40.25:024][162]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/FirstPersonExampleMapE0EE98FB4C6C6FB1798A0192A4E12BD6.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.04.08-17.40.27:197][162]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/FirstPersonExampleMap_BuiltData0351C07647ADAD7EF244218703DFFFB9.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.04.08-17.40.27:236][162]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.08-17.40.27:236][162]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.04.08-17.40.27:236][162]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
