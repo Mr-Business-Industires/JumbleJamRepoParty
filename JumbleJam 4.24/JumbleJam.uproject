@@ -2,6 +2,9 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.24",
 	"Category": "",
+<<<<<<< HEAD
+	"Description": ""
+=======
 	"Description": "",
 	"Plugins": [
 		{
@@ -9,4 +12,5 @@
 			"Enabled": true
 		}
 	]
+>>>>>>> master
 }
