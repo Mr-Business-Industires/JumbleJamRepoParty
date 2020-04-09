@@ -3365,3 +3365,10 @@ Scale3D: 1.000000 1.000000 1.000000
 [2020.04.09-17.07.45:158][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/SFX_INS_16_Long_Moving_Grumble]
 [2020.04.09-17.07.45:181][480]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_16_Long_Moving_Grumble_AC943A2484A9FDDC6D83A01843DD53851.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/SFX_INS_16_Long_Moving_Grumble_Auto7.uasset'
 [2020.04.09-17.07.45:182][480]LogFileHelpers: Auto-saving content packages took 0.601
+[2020.04.09-17.41.05:692][244]LogActorFactory: Actor Factory created sandle
+[2020.04.09-17.41.07:106][339]LogActorFactory: Actor Factory created sandle
+[2020.04.09-17.41.58:427][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.04.09-17.41.58:433][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/Maps/Untitled_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.09-17.41.59:860][ 36]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Untitled_Auto8BDDA6BB34488F8A5E2F2D2889D892AFC.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/Maps/Untitled_Auto8.umap'
+[2020.04.09-17.41.59:864][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Untitled' took 1.494
+[2020.04.09-17.41.59:864][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.494
