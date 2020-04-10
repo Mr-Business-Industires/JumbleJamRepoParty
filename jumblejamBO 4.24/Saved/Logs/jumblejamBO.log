@@ -2533,3 +2533,1065 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.10-08.12.33:328][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (teapot)
 [2020.04.10-08.12.44:526][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (teapot)
 [2020.04.10-08.13.26:595][ 98]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.10-08.15.45:965][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.SKEL_Radio_C' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.Radio_C' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.SKEL_Radio_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.SKEL_Radio_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.SKEL_Radio_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.SKEL_Radio_C:is playing audio' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.SKEL_Radio_C:Radio Array' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.SKEL_Radio_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.SKEL_Radio_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.Radio_C:is playing audio' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.Radio_C:Radio Array' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.Radio_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.Radio_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:561][659]LogMetaData: Removing '/Game/FirstPersonBP/SFX/Radio.Radio_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/PIANO/Radio.PackageMetaData'
+[2020.04.10-08.16.02:603][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/Radio" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/Radio.uasset" SILENT=true
+[2020.04.10-08.16.02:617][659]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Radio03451F4841CAF6A1A8C273BFDD8E0557.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/Radio.uasset'
+[2020.04.10-08.16.02:833][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.04.10-08.16.02:868][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.10-08.16.02:895][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.04.10-08.16.02:956][659]AssetCheck: New page: Asset Save: Radio
+[2020.04.10-08.16.02:956][659]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/SFX/Radio.Radio
+[2020.04.10-08.16.11:520][265]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/SFX/Radio.Radio
+[2020.04.10-08.17.04:062][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.04.10-08.17.04:563][173]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_pass_Auto2537FFC234F22FCA1E5363AB1083F123A.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/Maps/Light_dressing_pass_Auto2.umap'
+[2020.04.10-08.17.04:568][173]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Light_dressing_pass' took 0.538
+[2020.04.10-08.17.04:568][173]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.538
+[2020.04.10-08.19.12:200][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bunker_wall57)
+[2020.04.10-08.19.16:211][269]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.10-08.19.28:077][229]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.10-08.20.10:721][680]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4bccddf6-c7f3-4dcb-b5a8-951ca6698c9e}.
+[2020.04.10-08.20.10:721][680]LogTemp: Resetting audio stream to device id 
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: Channel Order:
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-08.20.10:839][680]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-08.21.21:913][177]BlueprintLog: New page: Compile Radio
+[2020.04.10-08.21.22:176][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.10-08.27.41:893][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.10-08.27.41:894][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Light_dressing_pass' took 0.040
+[2020.04.10-08.27.41:895][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/SFX/Radio] ([1] browsable assets)...
+[2020.04.10-08.27.41:895][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/Radio]
+[2020.04.10-08.27.41:895][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/Radio" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/Radio_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.10-08.27.41:911][853]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Radio_Auto35ECA23FC4FE92290E93698B7C7D27EEA.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/Radio_Auto3.uasset'
+[2020.04.10-08.27.41:913][853]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.04.10-08.37.51:593][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.10-08.37.51:594][799]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Light_dressing_pass' took 0.036
+[2020.04.10-08.37.51:595][799]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/SFX/Radio] ([1] browsable assets)...
+[2020.04.10-08.37.51:595][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/Radio]
+[2020.04.10-08.37.51:595][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/Radio" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/Radio_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.04.10-08.37.51:621][799]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Radio_Auto4CEC394B94CE90B00048439A7AAD5FAAF.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/Radio_Auto4.uasset'
+[2020.04.10-08.37.51:622][799]LogFileHelpers: Auto-saving content packages took 0.028
+[2020.04.10-08.39.27:210][708]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese.SFX_RAD_1_Chinese
+[2020.04.10-09.00.48:293][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.04.10-09.00.49:468][156]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.10-09.00.49:765][156]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese.SFX_RAD_1_Chinese
+[2020.04.10-09.00.50:288][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.04.10-09.00.50:321][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.04.10-09.00.50:353][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.04.10-09.01.17:808][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Downloads\SFX_RAD_1_Chinese.wav)
+[2020.04.10-09.01.18:058][944]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_RAD_1_Chinese...
+[2020.04.10-09.01.18:082][944]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese.SFX_RAD_1_Chinese will be modified from 40 to 40.
+[2020.04.10-09.01.23:757][944]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 80999612 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese.SFX_RAD_1_Chinese.
+[2020.04.10-09.01.33:784][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_RAD_1_Chinese.uasset" SILENT=true
+[2020.04.10-09.01.34:652][642]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_RAD_1_Chinese8A37205D4DA94BB309F79CA4E13F34EA.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_RAD_1_Chinese.uasset'
+[2020.04.10-09.01.34:705][642]AssetCheck: New page: Asset Save: SFX_RAD_1_Chinese
+[2020.04.10-09.01.34:705][642]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese.SFX_RAD_1_Chinese
+[2020.04.10-09.02.34:470][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.10-09.02.34:471][751]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Light_dressing_pass' took 0.034
+[2020.04.10-09.02.34:472][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/SFX/Radio] ([1] browsable assets)...
+[2020.04.10-09.02.34:472][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/Radio]
+[2020.04.10-09.02.34:472][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/Radio" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/Radio_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.04.10-09.02.34:487][751]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Radio_Auto50EFC4D0047CCD6FBD382B69B6DB6A773.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/Radio_Auto5.uasset'
+[2020.04.10-09.02.34:489][751]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.04.10-09.03.39:518][ 30]BlueprintLog: New page: Compile Radio
+[2020.04.10-09.03.39:780][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.10-09.03.41:005][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/Radio" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/Radio.uasset" SILENT=true
+[2020.04.10-09.03.41:020][118]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Radio57C84FCE47CF86B51276499EE4D2586D.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/Radio.uasset'
+[2020.04.10-09.03.41:040][118]AssetCheck: New page: Asset Save: Radio
+[2020.04.10-09.03.41:040][118]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/SFX/Radio.Radio
+[2020.04.10-09.04.00:854][243]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.04.00:872][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.04.00:872][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.04.00:873][243]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:04:00)
+[2020.04.10-09.04.00:873][243]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.04.00:954][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080862s)
+[2020.04.10-09.04.00:955][243]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.04.00:955][243]LogPlayLevel: PIE: World Init took: (0.001443s)
+[2020.04.10-09.04.00:956][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.082608s)
+[2020.04.10-09.04.00:994][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.10-09.04.00:997][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.04.00:997][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.04.00:997][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.04.00:997][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.04.00:997][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.04.00:997][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.04.00:997][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.04.00:997][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.04.00:998][243]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.04.00:998][243]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.04.01:048][243]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.04.01:064][243]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.04.01:069][243]LogInit: FAudioDevice initialized.
+[2020.04.10-09.04.01:080][243]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.04.01:090][243]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.04.01
+[2020.04.10-09.04.01:091][243]LogWorld: Bringing up level for play took: 0.009527
+[2020.04.10-09.04.01:091][243]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.10-09.04.01:096][243]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass 0.958
+[2020.04.10-09.04.01:096][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.04.01:811][321]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.04.13:962][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.04.13:969][776]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.04.13:989][776]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.04.13:989][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.04.13:989][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.04.13:989][776]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.04.13:989][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.04.13:989][776]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.04.13:991][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.04.14:007][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.04.14:007][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.04.14:012][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.04.14:044][776]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.04.14:047][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.04.14:057][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.10-09.04.14:063][776]LogActorComponent: ReregisterComponent: (/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.SFX_INT_PNO_3.AudioComponent0) Not currently registered. Aborting.
+[2020.04.10-09.04.14:086][777]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.10-09.04.17:057][129]LogEditorViewport: Clicking on Actor (LMB): Radio_C (Radio)
+[2020.04.10-09.04.17:935][228]LogEditorViewport: Clicking on Actor (LMB): Radio_C (Radio)
+[2020.04.10-09.04.17:995][231]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.04.10-09.04.20:994][549]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese.SFX_RAD_1_Chinese
+[2020.04.10-09.04.34:681][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_RAD_1_Chinese.uasset" SILENT=true
+[2020.04.10-09.04.35:590][760]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_RAD_1_ChineseDA65B4B044164FDE7A1478A6B3DA27EE.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_RAD_1_Chinese.uasset'
+[2020.04.10-09.04.35:653][760]AssetCheck: New page: Asset Save: SFX_RAD_1_Chinese
+[2020.04.10-09.04.35:653][760]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese.SFX_RAD_1_Chinese
+[2020.04.10-09.05.07:642][867]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.05.07:655][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.05.07:655][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.05.07:655][867]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:05:07)
+[2020.04.10-09.05.07:655][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.05.07:732][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077394s)
+[2020.04.10-09.05.07:733][867]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.05.07:733][867]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2020.04.10-09.05.07:733][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.078472s)
+[2020.04.10-09.05.07:766][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.04.10-09.05.07:768][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.05.07:768][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.05.07:768][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.05.07:768][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.05.07:768][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.05.07:768][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.05.07:768][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.05.07:768][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.05.07:769][867]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.05.07:769][867]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.05.07:827][867]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.05.07:828][867]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.05.07:828][867]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.05.07:828][867]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.05.07:828][867]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.05.07:828][867]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.05.07:828][867]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.05.07:828][867]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.05.07:828][867]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.05.07:844][867]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.05.07:847][867]LogInit: FAudioDevice initialized.
+[2020.04.10-09.05.07:859][867]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.05.07:866][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.05.07
+[2020.04.10-09.05.07:867][867]LogWorld: Bringing up level for play took: 0.007241
+[2020.04.10-09.05.07:867][867]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.04.10-09.05.07:871][867]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass -0.267
+[2020.04.10-09.05.07:871][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.05.09:324][ 18]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.08:822][907]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-183.288 Y=-3153.390 Z=67.432] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.21:578][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-126.205 Y=-3003.964 Z=75.326] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.26:481][825]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-22.475 Y=-3216.352 Z=87.391] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.26:992][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-284.190 Y=-3075.737 Z=112.834] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.27:211][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-32.134 Y=-2970.073 Z=103.038] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.27:385][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-36.806 Y=-3226.617 Z=87.157] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.27:899][983]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-96.041 Y=-3050.519 Z=83.944] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.30:009][221]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-195.068 Y=-3620.445 Z=113.248] for [FirstPersonProjectile_C]
+[2020.04.10-09.06.47:302][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.06.47:302][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.06.47:303][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.06.47:303][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.06.47:303][206]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.06.47:303][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.06.47:303][206]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.06.47:305][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.06.47:317][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.06.47:317][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.06.47:322][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.06.47:352][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.06.47:356][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.06.47:365][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.04.10-09.06.47:418][208]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.10-09.07.10:045][246]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_12_Short_Crash_Wub.SFX_INS_12_Short_Crash_Wub
+[2020.04.10-09.07.11:703][384]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_11_Long_Crunchy_Stagnate.SFX_INS_11_Long_Crunchy_Stagnate
+[2020.04.10-09.07.17:840][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-09.07.17:879][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.10-09.07.18:320][867]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_pass16FC783C44317CD2E74B0CB0A235633A.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap'
+[2020.04.10-09.07.18:349][867]LogFileHelpers: Saving map 'Light_dressing_pass' took 0.509
+[2020.04.10-09.07.18:401][867]AssetCheck: New page: Asset Save: Light_dressing_pass
+[2020.04.10-09.07.18:401][867]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
+[2020.04.10-09.08.05:405][706]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.10-09.08.05:826][735]LogEditorViewport: Clicking on Actor (LMB): Radio_C (Radio)
+[2020.04.10-09.08.06:610][807]Cmd: DELETE
+[2020.04.10-09.08.06:610][807]Cmd: ACTOR DELETE
+[2020.04.10-09.08.06:618][807]LogEditorActor: Deleted Actor: Radio_C
+[2020.04.10-09.08.06:654][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.04.10-09.08.06:655][807]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.04.10-09.08.14:736][394]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SFX_RAD_1_Chinese)
+[2020.04.10-09.10.26:421][870]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.10.26:421][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.11.22:841][311]LogSlate: Window 'Save Asset As' being destroyed
+[2020.04.10-09.11.24:533][449]LogAssetEditorSubsystem: Opening Asset editor for SoundAttenuation /Game/FirstPersonBP/SFX/Radioattenuatuoi.Radioattenuatuoi
+[2020.04.10-09.11.55:805][182]Cmd: TRANSACTION UNDO
+[2020.04.10-09.11.55:805][182]LogEditorTransaction: Undo Move Actors
+[2020.04.10-09.11.55:812][182]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.04.10-09.11.55:832][182]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-09.11.55:832][182]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-09.11.55:832][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-09.11.55:832][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-09.11.56:378][195]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.10-09.11.56:443][199]Cmd: TRANSACTION UNDO
+[2020.04.10-09.11.56:443][199]LogEditorTransaction: Undo Edit Falloff Distance
+[2020.04.10-09.11.56:451][199]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.04.10-09.11.56:586][202]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.10-09.11.56:621][204]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-09.11.56:811][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.10-09.11.57:102][232]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.04.10-09.11.57:264][242]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.10-09.11.57:312][245]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.10-09.11.57:379][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.10-09.11.57:410][251]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.10-09.11.57:745][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.10-09.11.57:745][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.10-09.11.58:295][301]MaterialEditorStats: Base pass shader: 124 instructions
+[2020.04.10-09.11.58:296][301]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2020.04.10-09.11.58:296][301]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-09.11.58:296][301]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.10-09.11.58:296][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.10-09.11.58:296][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-09.13.05:276][711]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.10-09.13.48:513][538]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.04.10-09.13.49:463][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (straight_pipe)
+[2020.04.10-09.16.09:574][144]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::PlaySoundAtLocation' [Element not found.]
+[2020.04.10-09.16.48:440][304]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_17_Short_Metal_Slice.SFX_INS_17_Short_Metal_Slice
+[2020.04.10-09.17.27:242][  0]BlueprintLog: New page: Compile Light_dressing_pass
+[2020.04.10-09.17.27:507][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.04.10-09.17.49:937][996]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.10-09.17.50:747][ 74]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SFX_INS_17_Short_Metal_Slice)
+[2020.04.10-09.17.51:541][146]Cmd: DELETE
+[2020.04.10-09.17.51:541][146]Cmd: ACTOR DELETE
+[2020.04.10-09.17.51:547][146]LogEditorActor: Deleted Actor: AmbientSound
+[2020.04.10-09.17.51:576][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.04.10-09.17.51:579][146]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.04.10-09.19.26:550][355]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_8_Short_Slow_Chime.SFX_INS_8_Short_Slow_Chime
+[2020.04.10-09.19.33:029][894]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SFX_INS_9_Short_Build_Buzz)
+[2020.04.10-09.19.35:557][134]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.04.10-09.19.39:162][471]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SFX_INS_8_Short_Slow_Chime)
+[2020.04.10-09.19.52:247][624]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SFX_INS_9_Short_Build_Buzz)
+[2020.04.10-09.20.05:638][749]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_9_Short_Build_Buzz.SFX_INS_9_Short_Build_Buzz
+[2020.04.10-09.20.38:306][792]LogEditorViewport: Clicking Background
+[2020.04.10-09.21.19:855][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.04.10-09.21.20:271][759]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_pass_Auto6AC12A02442F64539C76293ADB379B46C.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/Maps/Light_dressing_pass_Auto6.umap'
+[2020.04.10-09.21.20:274][759]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Light_dressing_pass' took 0.450
+[2020.04.10-09.21.20:274][759]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.450
+[2020.04.10-09.21.20:274][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/PIANO/Pianosound] ([1] browsable assets)...
+[2020.04.10-09.21.20:274][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/PIANO/Pianosound]
+[2020.04.10-09.21.20:279][759]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Pianosound_Auto696813B5E46D0BBEE863A4F85B0BB8DDA.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/PIANO/Pianosound_Auto6.uasset'
+[2020.04.10-09.21.20:280][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/SFX/SFX_INS_17_Short_Metal_Slice] ([1] browsable assets)...
+[2020.04.10-09.21.20:285][759]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/FirstPersonBP/SFX/SFX_INS_17_Short_Metal_Slice.SFX_INS_17_Short_Metal_Slice]
+[2020.04.10-09.21.20:285][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/SFX_INS_17_Short_Metal_Slice]
+[2020.04.10-09.21.20:293][759]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_17_Short_Metal_Slice_Aut6932203B43D8A4454BCB68AA36CF603A.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/SFX_INS_17_Short_Metal_Slice_Auto6.uasset'
+[2020.04.10-09.21.20:295][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese] ([1] browsable assets)...
+[2020.04.10-09.21.20:354][759]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese.SFX_RAD_1_Chinese]
+[2020.04.10-09.21.20:354][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese]
+[2020.04.10-09.21.21:596][759]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_RAD_1_Chinese_Auto6A69E9CD44C3EAD85B766B693C1C0A18D.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/SFX_RAD_1_Chinese_Auto6.uasset'
+[2020.04.10-09.21.21:598][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/SFX/Radioattenuatuoi] ([1] browsable assets)...
+[2020.04.10-09.21.21:598][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/Radioattenuatuoi]
+[2020.04.10-09.21.21:601][759]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Radioattenuatuoi_Auto6A3883A1041D6EA71E2DDCE8CD9969463.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/Radioattenuatuoi_Auto6.uasset'
+[2020.04.10-09.21.21:603][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/SFX/SFX_INS_9_Short_Build_Buzz] ([1] browsable assets)...
+[2020.04.10-09.21.21:608][759]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/FirstPersonBP/SFX/SFX_INS_9_Short_Build_Buzz.SFX_INS_9_Short_Build_Buzz]
+[2020.04.10-09.21.21:608][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/SFX_INS_9_Short_Build_Buzz]
+[2020.04.10-09.21.21:616][759]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_9_Short_Build_Buzz_Auto69C0916FF46B5E4CD785D7C85906F2B72.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/SFX_INS_9_Short_Build_Buzz_Auto6.uasset'
+[2020.04.10-09.21.21:618][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/SFX/SFX_INS_8_Short_Slow_Chime] ([1] browsable assets)...
+[2020.04.10-09.21.21:623][759]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/FirstPersonBP/SFX/SFX_INS_8_Short_Slow_Chime.SFX_INS_8_Short_Slow_Chime]
+[2020.04.10-09.21.21:623][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SFX/SFX_INS_8_Short_Slow_Chime]
+[2020.04.10-09.21.21:634][759]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_8_Short_Slow_Chime_Auto65E2A2CCF4595227421B6F394D22BE6D3.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/SFX/SFX_INS_8_Short_Slow_Chime_Auto6.uasset'
+[2020.04.10-09.21.21:636][759]LogFileHelpers: Auto-saving content packages took 1.362
+[2020.04.10-09.21.35:113][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_Med_Whirring.wav)
+[2020.04.10-09.21.35:124][816]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_Med_Whirring...
+[2020.04.10-09.21.35:125][816]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Whirring.SFX_FL_Med_Whirring will be modified from 40 to 40.
+[2020.04.10-09.21.35:432][816]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3351600 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Whirring.SFX_FL_Med_Whirring.
+[2020.04.10-09.21.35:444][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_Short_Hydraulic.wav)
+[2020.04.10-09.21.35:448][816]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_Short_Hydraulic...
+[2020.04.10-09.21.35:448][816]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic.SFX_FL_Short_Hydraulic will be modified from 40 to 40.
+[2020.04.10-09.21.35:536][816]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 882000 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic.SFX_FL_Short_Hydraulic.
+[2020.04.10-09.21.36:043][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_LongAF_Drips_And_Atmosphere.wav)
+[2020.04.10-09.21.36:182][816]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_LongAF_Drips_And_Atmosphere...
+[2020.04.10-09.21.36:192][816]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_LongAF_Drips_And_Atmosphere.SFX_FL_LongAF_Drips_And_Atmosphere will be modified from 40 to 40.
+[2020.04.10-09.21.40:004][816]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 46922400 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_LongAF_Drips_And_Atmosphere.SFX_FL_LongAF_Drips_And_Atmosphere.
+[2020.04.10-09.21.40:145][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_Med_Bang_And_Fallout.wav)
+[2020.04.10-09.21.40:163][816]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_Med_Bang_And_Fallout...
+[2020.04.10-09.21.40:164][816]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Bang_And_Fallout.SFX_FL_Med_Bang_And_Fallout will be modified from 40 to 40.
+[2020.04.10-09.21.40:483][816]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3880800 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Bang_And_Fallout.SFX_FL_Med_Bang_And_Fallout.
+[2020.04.10-09.21.40:497][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_Med_Banging.wav)
+[2020.04.10-09.21.40:507][816]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_Med_Banging...
+[2020.04.10-09.21.40:507][816]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Banging.SFX_FL_Med_Banging will be modified from 40 to 40.
+[2020.04.10-09.21.40:757][816]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2822400 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Banging.SFX_FL_Med_Banging.
+[2020.04.10-09.21.40:854][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_Med_BowedPiano.wav)
+[2020.04.10-09.21.40:873][816]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_Med_BowedPiano...
+[2020.04.10-09.21.40:874][816]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano.SFX_FL_Med_BowedPiano will be modified from 40 to 40.
+[2020.04.10-09.21.41:340][816]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5973148 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano.SFX_FL_Med_BowedPiano.
+[2020.04.10-09.21.41:356][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_Med_Door_And_Scratching.wav)
+[2020.04.10-09.21.41:363][816]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_Med_Door_And_Scratching...
+[2020.04.10-09.21.41:364][816]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.SFX_FL_Med_Door_And_Scratching will be modified from 40 to 40.
+[2020.04.10-09.21.41:558][816]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2205000 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.SFX_FL_Med_Door_And_Scratching.
+[2020.04.10-09.21.41:572][816]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_Med_Mechanical.wav)
+[2020.04.10-09.21.41:579][816]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_Med_Mechanical...
+[2020.04.10-09.21.41:580][816]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Mechanical.SFX_FL_Med_Mechanical will be modified from 40 to 40.
+[2020.04.10-09.21.41:750][816]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1940400 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Mechanical.SFX_FL_Med_Mechanical.
+[2020.04.10-09.21.50:145][ 14]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Repos\JumbleJamRepoParty\Marcus Audio\SFX_FL_Short_Clang.wav)
+[2020.04.10-09.21.50:148][ 14]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SFX_FL_Short_Clang...
+[2020.04.10-09.21.50:148][ 14]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Clang.SFX_FL_Short_Clang will be modified from 40 to 40.
+[2020.04.10-09.21.50:227][ 14]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 882000 while cooking SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Clang.SFX_FL_Short_Clang.
+[2020.04.10-09.21.54:393][194]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Clang.SFX_FL_Short_Clang
+[2020.04.10-09.22.37:330][988]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic.SFX_FL_Short_Hydraulic
+[2020.04.10-09.23.17:365][489]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_10_Short_Half_Life.SFX_INS_10_Short_Half_Life
+[2020.04.10-09.24.04:601][722]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_LongAF_Drips_And_Atmosphere.SFX_FL_LongAF_Drips_And_Atmosphere
+[2020.04.10-09.25.38:174][291]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano.SFX_FL_Med_BowedPiano
+[2020.04.10-09.26.31:045][315]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.SFX_FL_Med_Door_And_Scratching
+[2020.04.10-09.27.39:357][866]Cmd: EDIT COPY
+[2020.04.10-09.27.39:715][903]Cmd: EDIT PASTE
+[2020.04.10-09.29.50:474][ 58]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_3_Short_Fast_Glitch.SFX_INS_3_Short_Fast_Glitch
+[2020.04.10-09.30.22:761][ 58]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_5_Short_Fast_Glitch.SFX_INS_5_Short_Fast_Glitch
+[2020.04.10-09.30.37:503][467]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.30.37:517][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.30.37:517][467]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.10-09.30.37:518][467]LogPlayLevel: [PlayLevel] Compiling Light_dressing_pass before play...
+[2020.04.10-09.30.37:799][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.04.10-09.30.37:800][467]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2020.04.10-09.30.37:801][467]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:30:37)
+[2020.04.10-09.30.37:801][467]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.30.37:880][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078883s)
+[2020.04.10-09.30.37:881][467]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.30.37:881][467]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2020.04.10-09.30.37:881][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.080015s)
+[2020.04.10-09.30.37:910][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.04.10-09.30.37:912][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.30.37:912][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.30.37:912][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.30.37:912][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.30.37:912][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.30.37:912][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.30.37:912][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.30.37:912][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.30.37:912][467]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.30.37:912][467]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.30.37:963][467]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.30.37:964][467]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.30.37:964][467]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.30.37:964][467]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.30.37:964][467]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.30.37:964][467]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.30.37:964][467]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.30.37:964][467]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.30.37:964][467]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.30.37:981][467]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.30.37:983][467]LogInit: FAudioDevice initialized.
+[2020.04.10-09.30.37:992][467]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.30.37:999][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.30.37
+[2020.04.10-09.30.38:000][467]LogWorld: Bringing up level for play took: 0.006958
+[2020.04.10-09.30.38:000][467]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.10-09.30.38:004][467]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass -0.134
+[2020.04.10-09.30.38:004][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.30.38:566][509]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.30.40:782][760]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-345.433 Y=-821.489 Z=121.743] for [FirstPersonProjectile_C]
+[2020.04.10-09.30.41:508][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-337.669 Y=-1302.226 Z=142.645] for [FirstPersonProjectile_C]
+[2020.04.10-09.30.42:643][973]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-405.849 Y=-1894.585 Z=117.257] for [FirstPersonProjectile_C]
+[2020.04.10-09.30.42:822][993]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-338.172 Y=-1976.830 Z=132.021] for [FirstPersonProjectile_C]
+[2020.04.10-09.31.36:556][193]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.31.36:568][193]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.31.36:588][193]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.31.36:588][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.31.36:588][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.31.36:588][193]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.31.36:588][193]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.31.36:589][193]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.31.36:590][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.31.36:598][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.31.36:599][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.31.36:604][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.31.36:633][193]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.31.36:636][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.31.36:644][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.04.10-09.31.36:669][194]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.10-09.31.49:350][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-09.31.49:380][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.10-09.31.49:805][579]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_passBD99A62C4120F997672DFAABA7860742.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap'
+[2020.04.10-09.31.49:836][579]LogFileHelpers: Saving map 'Light_dressing_pass' took 0.486
+[2020.04.10-09.31.49:852][579]AssetCheck: New page: Asset Save: Light_dressing_pass
+[2020.04.10-09.31.49:852][579]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
+[2020.04.10-09.31.55:868][206]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume2)
+[2020.04.10-09.31.55:949][208]LogEditorViewport: Clicking on Actor (double click): TriggerVolume (TriggerVolume2)
+[2020.04.10-09.31.56:888][295]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-09.32.16:890][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bunker_wall64)
+[2020.04.10-09.32.19:038][325]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume2)
+[2020.04.10-09.32.36:482][928]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.32.36:497][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.32.36:497][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.32.36:497][928]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:32:36)
+[2020.04.10-09.32.36:497][928]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.32.36:571][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074499s)
+[2020.04.10-09.32.36:571][928]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.32.36:572][928]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2020.04.10-09.32.36:572][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.075419s)
+[2020.04.10-09.32.36:603][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.04.10-09.32.36:605][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.32.36:605][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.32.36:605][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.32.36:605][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.32.36:605][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.32.36:605][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.32.36:605][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.32.36:605][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.32.36:606][928]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.32.36:606][928]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.32.36:654][928]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.32.36:668][928]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.32.36:670][928]LogInit: FAudioDevice initialized.
+[2020.04.10-09.32.36:677][928]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.32.36:684][928]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.32.36
+[2020.04.10-09.32.36:684][928]LogWorld: Bringing up level for play took: 0.007012
+[2020.04.10-09.32.36:685][928]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.10-09.32.36:688][928]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass 0.55
+[2020.04.10-09.32.36:688][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.32.37:157][977]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.33.21:429][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.33.21:448][ 87]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.33.21:468][ 87]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.33.21:468][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.33.21:468][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.33.21:468][ 87]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.33.21:468][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.33.21:469][ 87]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.33.21:470][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.33.21:489][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.33.21:490][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.33.21:494][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.33.21:520][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.33.21:523][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.33.21:531][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.04.10-09.33.21:556][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.10-09.33.28:281][837]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.33.28:292][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.33.28:292][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.33.28:292][837]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:33:28)
+[2020.04.10-09.33.28:292][837]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.33.28:368][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074947s)
+[2020.04.10-09.33.28:368][837]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.33.28:369][837]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2020.04.10-09.33.28:369][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.076170s)
+[2020.04.10-09.33.28:399][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.04.10-09.33.28:400][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.33.28:400][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.33.28:400][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.33.28:400][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.33.28:400][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.33.28:400][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.33.28:400][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.33.28:401][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.33.28:401][837]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.33.28:401][837]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.33.28:447][837]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.33.28:460][837]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.33.28:462][837]LogInit: FAudioDevice initialized.
+[2020.04.10-09.33.28:468][837]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.33.28:475][837]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.33.28
+[2020.04.10-09.33.28:476][837]LogWorld: Bringing up level for play took: 0.006800
+[2020.04.10-09.33.28:476][837]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.10-09.33.28:479][837]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass 0.342
+[2020.04.10-09.33.28:479][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.33.29:208][915]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.33.41:869][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.33.41:878][383]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.33.41:898][383]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.33.41:898][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.33.41:898][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.33.41:898][383]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.33.41:898][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.33.41:898][383]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.33.41:900][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.33.41:913][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.33.41:913][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.33.41:917][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.33.41:946][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.33.41:948][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.33.41:954][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.04.10-09.33.41:981][384]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.10-09.34.06:928][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (teapot)
+[2020.04.10-09.34.54:232][834]Cmd: TRANSACTION UNDO
+[2020.04.10-09.34.54:232][834]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.10-09.34.54:247][834]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.04.10-09.34.54:259][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-09.34.54:259][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-09.34.54:259][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-09.34.54:259][834]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-09.34.54:716][843]Cmd: TRANSACTION UNDO
+[2020.04.10-09.34.54:717][843]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.10-09.34.54:740][843]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.04.10-09.34.54:762][843]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.10-09.34.55:008][853]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.10-09.34.55:008][853]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.10-09.34.55:044][855]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.10-09.34.55:231][867]Cmd: TRANSACTION UNDO
+[2020.04.10-09.34.55:231][867]LogEditorTransaction: Undo Move Actors
+[2020.04.10-09.34.55:240][867]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.04.10-09.34.55:357][868]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.10-09.34.55:405][870]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.10-09.34.55:668][885]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.10-09.34.55:668][885]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.10-09.34.55:996][904]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.10-09.34.56:083][909]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.10-09.34.56:083][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.10-09.34.56:294][922]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-09.34.56:495][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.10-09.34.56:890][957]MaterialEditorStats: Base pass shader: 124 instructions
+[2020.04.10-09.34.56:890][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2020.04.10-09.34.56:890][957]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-09.34.56:890][957]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.10-09.34.56:890][957]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.10-09.34.56:890][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-09.34.57:020][968]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-09.35.12:629][359]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.35.12:644][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.35.12:644][359]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.10-09.35.12:645][359]LogPlayLevel: [PlayLevel] Compiling Light_dressing_pass before play...
+[2020.04.10-09.35.12:933][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.04.10-09.35.12:934][359]LogPlayLevel: PlayLevel: Blueprint regeneration took 291 ms (1 blueprints)
+[2020.04.10-09.35.12:934][359]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:35:12)
+[2020.04.10-09.35.12:935][359]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.35.13:010][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075058s)
+[2020.04.10-09.35.13:010][359]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.35.13:010][359]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2020.04.10-09.35.13:011][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.076057s)
+[2020.04.10-09.35.13:042][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.04.10-09.35.13:043][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.35.13:043][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.35.13:043][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.35.13:043][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.35.13:043][359]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.35.13:043][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.35.13:043][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.35.13:043][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.35.13:043][359]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.35.13:043][359]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.35.13:090][359]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.35.13:105][359]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.35.13:107][359]LogInit: FAudioDevice initialized.
+[2020.04.10-09.35.13:117][359]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.35.13:125][359]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.35.13
+[2020.04.10-09.35.13:125][359]LogWorld: Bringing up level for play took: 0.007052
+[2020.04.10-09.35.13:125][359]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.10-09.35.13:129][359]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass 0.991
+[2020.04.10-09.35.13:129][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.35.13:648][399]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.35.21:355][211]LogAudio: Warning: Detected orphaned looping sound 'SFX_INS_3_Short_Fast_Glitch'.
+[2020.04.10-09.35.26:000][703]LogAudio: Warning: Detected orphaned looping sound 'SFX_INS_3_Short_Fast_Glitch'.
+[2020.04.10-09.35.44:091][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.35.44:098][615]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.35.44:118][615]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.35.44:118][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.35.44:118][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.35.44:118][615]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.35.44:118][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.35.44:119][615]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.35.44:120][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.35.44:135][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.35.44:135][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.35.44:140][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.35.44:166][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.35.44:170][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.35.44:178][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.04.10-09.35.44:231][616]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.10-09.35.49:001][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.35.49:017][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.35.49:017][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.35.49:017][ 94]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:35:49)
+[2020.04.10-09.35.49:017][ 94]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.35.49:090][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073570s)
+[2020.04.10-09.35.49:091][ 94]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.35.49:091][ 94]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2020.04.10-09.35.49:091][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.074507s)
+[2020.04.10-09.35.49:117][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.10-09.35.49:118][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.35.49:118][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.35.49:118][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.35.49:118][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.35.49:118][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.35.49:118][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.35.49:118][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.35.49:118][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.35.49:118][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.35.49:118][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.35.49:166][ 94]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.35.49:167][ 94]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.35.49:167][ 94]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.35.49:167][ 94]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.35.49:167][ 94]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.35.49:167][ 94]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.35.49:167][ 94]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.35.49:167][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.35.49:167][ 94]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.35.49:182][ 94]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.35.49:184][ 94]LogInit: FAudioDevice initialized.
+[2020.04.10-09.35.49:193][ 94]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.35.49:201][ 94]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.35.49
+[2020.04.10-09.35.49:201][ 94]LogWorld: Bringing up level for play took: 0.007674
+[2020.04.10-09.35.49:201][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.04.10-09.35.49:205][ 94]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass 1.067
+[2020.04.10-09.35.49:205][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.35.50:324][218]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.36.42:186][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.36.42:198][201]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.36.42:218][201]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.36.42:218][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.36.42:218][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.36.42:218][201]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.36.42:218][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.36.42:219][201]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.36.42:220][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.36.42:240][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.36.42:240][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.36.42:248][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.36.42:279][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.36.42:282][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.36.42:289][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.04.10-09.36.42:313][202]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.04.10-09.36.43:443][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lantern)
+[2020.04.10-09.36.47:596][698]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.36.47:610][698]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.36.47:610][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.36.47:610][698]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:36:47)
+[2020.04.10-09.36.47:610][698]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.36.47:685][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075272s)
+[2020.04.10-09.36.47:686][698]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.36.47:686][698]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.04.10-09.36.47:686][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.076339s)
+[2020.04.10-09.36.47:711][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.04.10-09.36.47:713][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.36.47:713][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.36.47:713][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.36.47:713][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.36.47:713][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.36.47:713][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.36.47:713][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.36.47:713][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.36.47:713][698]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.36.47:713][698]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.36.47:760][698]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.36.47:775][698]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.36.47:776][698]LogInit: FAudioDevice initialized.
+[2020.04.10-09.36.47:789][698]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.36.47:796][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.36.47
+[2020.04.10-09.36.47:797][698]LogWorld: Bringing up level for play took: 0.007269
+[2020.04.10-09.36.47:797][698]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.04.10-09.36.47:800][698]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass -0.337
+[2020.04.10-09.36.47:801][698]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.36.48:648][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.37.24:686][942]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.37.24:697][942]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.37.24:718][942]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.37.24:718][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.37.24:718][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.37.24:718][942]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.37.24:718][942]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.37.24:719][942]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.37.24:721][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.37.24:727][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.37.24:728][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.37.24:732][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.37.24:761][942]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.37.24:765][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.37.24:773][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.04.10-09.37.24:799][943]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.10-09.37.27:912][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (teapot)
+[2020.04.10-09.37.27:995][309]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.10-09.37.29:534][464]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.10-09.37.29:618][470]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (teapot)
+[2020.04.10-09.37.31:836][672]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/teapot.teapot
+[2020.04.10-09.37.32:372][673]LogRenderer: Reallocating scene render targets to support 1604x920 Format 10 NumSamples 1 (Frame:1).
+[2020.04.10-09.38.43:093][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-09.38.43:216][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.04.10-09.38.43:684][  0]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_passD5BFABF34B1680DB55188B8631D71593.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap'
+[2020.04.10-09.38.43:726][  0]AssetCheck: New page: Asset Save: Light_dressing_pass
+[2020.04.10-09.38.43:726][  0]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
+[2020.04.10-09.39.04:272][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/teapot" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Geometry/Meshes/teapot.uasset" SILENT=true
+[2020.04.10-09.39.04:323][423]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/teapot35C41EA34C519B92F589358D3E5F2629.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Geometry/Meshes/teapot.uasset'
+[2020.04.10-09.39.04:337][423]AssetCheck: New page: Asset Save: teapot
+[2020.04.10-09.39.04:337][423]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/teapot.teapot
+[2020.04.10-09.39.05:798][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bunker_wall64)
+[2020.04.10-09.39.07:225][617]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.39.07:239][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.39.07:239][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.39.07:239][617]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:39:07)
+[2020.04.10-09.39.07:239][617]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.39.07:313][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073911s)
+[2020.04.10-09.39.07:314][617]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.39.07:314][617]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2020.04.10-09.39.07:314][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.074990s)
+[2020.04.10-09.39.07:372][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.04.10-09.39.07:373][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.39.07:373][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.39.07:373][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.39.07:373][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.39.07:373][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.39.07:373][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.39.07:373][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.39.07:374][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.39.07:374][617]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.39.07:374][617]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.39.07:428][617]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.39.07:444][617]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.39.07:445][617]LogInit: FAudioDevice initialized.
+[2020.04.10-09.39.07:454][617]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.39.07:461][617]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.39.07
+[2020.04.10-09.39.07:462][617]LogWorld: Bringing up level for play took: 0.007027
+[2020.04.10-09.39.07:462][617]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.04.10-09.39.07:465][617]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass -0.672
+[2020.04.10-09.39.07:465][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.39.08:037][666]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.39.16:454][575]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-313.491 Y=-4184.984 Z=90.056] for [FirstPersonProjectile_C]
+[2020.04.10-09.39.21:796][135]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.39.21:798][135]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.39.21:818][135]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.39.21:818][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.39.21:818][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.39.21:818][135]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.39.21:818][135]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.39.21:818][135]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.39.21:820][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.39.21:830][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.39.21:830][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.39.21:837][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.39.21:867][135]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.39.21:870][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.39.21:878][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.04.10-09.39.21:908][136]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.04.10-09.39.52:395][740]LogActorFactory: Actor Factory created teapot
+[2020.04.10-09.39.52:812][768]LogActorFactory: Actor Factory created teapot
+[2020.04.10-09.40.01:596][398]Cmd: DELETE
+[2020.04.10-09.40.01:596][398]Cmd: ACTOR DELETE
+[2020.04.10-09.40.01:603][398]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-09.40.01:636][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.10-09.40.01:641][398]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.04.10-09.40.08:071][940]LogStaticMesh: Building static mesh teapot...
+[2020.04.10-09.40.08:156][940]LogStaticMesh: Built static mesh [0.08s] /Game/Geometry/Meshes/teapot.teapot
+[2020.04.10-09.40.10:781][150]LogActorFactory: Actor Factory created teapot
+[2020.04.10-09.40.11:084][171]LogActorFactory: Actor Factory created teapot
+[2020.04.10-09.40.15:760][517]Cmd: DELETE
+[2020.04.10-09.40.15:760][517]Cmd: ACTOR DELETE
+[2020.04.10-09.40.15:767][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-09.40.15:805][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.04.10-09.40.15:808][517]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.04.10-09.40.17:943][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/teapot" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Geometry/Meshes/teapot.uasset" SILENT=true
+[2020.04.10-09.40.17:978][686]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/teapot85A62CF4423296A22A13A1B4A37CCCA0.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Geometry/Meshes/teapot.uasset'
+[2020.04.10-09.40.18:002][686]AssetCheck: New page: Asset Save: teapot
+[2020.04.10-09.40.18:002][686]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/teapot.teapot
+[2020.04.10-09.40.22:991][864]LogActorFactory: Actor Factory created teapot
+[2020.04.10-09.40.23:284][882]LogActorFactory: Actor Factory created teapot
+[2020.04.10-09.40.28:556][275]Cmd: DELETE
+[2020.04.10-09.40.28:556][275]Cmd: ACTOR DELETE
+[2020.04.10-09.40.28:562][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-09.40.28:594][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.10-09.40.28:597][275]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.04.10-09.40.30:588][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (teapot)
+[2020.04.10-09.40.41:834][193]Cmd: TRANSACTION UNDO
+[2020.04.10-09.40.41:834][193]LogEditorTransaction: Undo Set Vector Property
+[2020.04.10-09.40.41:968][193]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.04.10-09.40.42:016][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-09.40.42:016][193]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-09.40.42:016][193]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-09.40.42:016][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-09.40.42:563][206]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.10-09.40.42:820][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.10-09.40.42:866][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.10-09.40.42:887][221]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-09.40.43:255][234]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.10-09.40.43:604][253]MaterialEditorStats: Base pass shader: 124 instructions
+[2020.04.10-09.40.43:604][253]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2020.04.10-09.40.43:604][253]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-09.40.43:604][253]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.10-09.40.43:604][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.10-09.40.43:604][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-09.40.58:960][322]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.40.58:975][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.40.58:975][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.40.58:975][322]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:40:58)
+[2020.04.10-09.40.58:975][322]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.40.59:055][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079894s)
+[2020.04.10-09.40.59:056][322]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.40.59:056][322]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2020.04.10-09.40.59:056][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.080904s)
+[2020.04.10-09.40.59:093][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.04.10-09.40.59:097][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.40.59:097][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.40.59:097][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.40.59:097][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.40.59:097][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.40.59:097][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.40.59:097][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.40.59:097][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.40.59:097][322]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.40.59:098][322]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.40.59:145][322]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.40.59:145][322]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.40.59:145][322]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.40.59:146][322]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.40.59:146][322]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.40.59:146][322]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.40.59:146][322]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.40.59:146][322]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.40.59:146][322]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.40.59:161][322]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.40.59:163][322]LogInit: FAudioDevice initialized.
+[2020.04.10-09.40.59:173][322]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.40.59:182][322]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.40.59
+[2020.04.10-09.40.59:182][322]LogWorld: Bringing up level for play took: 0.008051
+[2020.04.10-09.40.59:183][322]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.04.10-09.40.59:186][322]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass 1.049
+[2020.04.10-09.40.59:186][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.40.59:756][377]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.41.05:195][955]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-375.033 Y=-2916.974 Z=115.822] for [FirstPersonProjectile_C]
+[2020.04.10-09.41.05:524][991]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-356.121 Y=-3113.569 Z=114.285] for [FirstPersonProjectile_C]
+[2020.04.10-09.41.05:719][ 12]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-346.581 Y=-3232.176 Z=123.317] for [FirstPersonProjectile_C]
+[2020.04.10-09.41.11:349][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.41.11:368][615]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.41.11:388][615]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.41.11:388][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.41.11:388][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.41.11:388][615]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.41.11:388][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.41.11:389][615]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.41.11:390][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.41.11:401][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.41.11:401][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.41.11:406][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.41.11:437][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.41.11:440][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.41.11:449][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.04.10-09.41.11:477][616]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.04.10-09.41.28:563][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/teapot" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Geometry/Meshes/teapot.uasset" SILENT=true
+[2020.04.10-09.41.28:597][ 23]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/teapotE417F75949A755E69D02CFA426CC62C1.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Geometry/Meshes/teapot.uasset'
+[2020.04.10-09.41.28:622][ 23]AssetCheck: New page: Asset Save: teapot
+[2020.04.10-09.41.28:622][ 23]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/teapot.teapot
+[2020.04.10-09.41.30:370][155]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.10-09.41.30:382][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.41.30:382][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.10-09.41.30:382][155]PIE: New page: PIE session: Light_dressing_pass (10 Apr 2020, 11:41:30)
+[2020.04.10-09.41.30:382][155]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.41.30:456][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073871s)
+[2020.04.10-09.41.30:457][155]LogAIModule: Creating AISystem for world Light_dressing_pass
+[2020.04.10-09.41.30:457][155]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2020.04.10-09.41.30:458][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Light_dressing_pass.Light_dressing_pass to /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass (0.075026s)
+[2020.04.10-09.41.30:490][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.10-09.41.30:493][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.10-09.41.30:493][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.10-09.41.30:493][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.10-09.41.30:493][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.10-09.41.30:493][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.10-09.41.30:493][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.10-09.41.30:493][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.10-09.41.30:493][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.10-09.41.30:493][155]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.10-09.41.30:493][155]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: Name: Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: Is Default: Yes
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: Channel Order:
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.10-09.41.30:540][155]LogAudioMixer: Display: 1: FrontRight
+[2020.04.10-09.41.30:555][155]LogAudioMixer: Display: Using Audio Device Headset Earphone (Razer Kraken 7.1 Chroma)
+[2020.04.10-09.41.30:557][155]LogInit: FAudioDevice initialized.
+[2020.04.10-09.41.30:565][155]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.10-09.41.30:572][155]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Light_dressing_pass.Light_dressing_pass up for play (max tick rate 0) at 2020.04.10-10.41.30
+[2020.04.10-09.41.30:573][155]LogWorld: Bringing up level for play took: 0.007961
+[2020.04.10-09.41.30:573][155]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.04.10-09.41.30:578][155]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Light_dressing_pass 0.439
+[2020.04.10-09.41.30:578][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.41.31:146][210]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-238.009 Y=122.881 Z=140.639] for [FirstPersonProjectile_C]
+[2020.04.10-09.41.43:034][508]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-156.920 Y=-4429.568 Z=84.160] for [FirstPersonProjectile_C]
+[2020.04.10-09.41.51:839][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.41.51:849][448]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.10-09.41.51:868][448]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.10-09.41.51:868][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.41.51:868][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.41.51:868][448]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Light_dressing_pass
+[2020.04.10-09.41.51:868][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.41.51:869][448]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-09.41.51:870][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.41.51:882][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.10-09.41.51:882][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass' with GeneratedClass '/Game/Maps/Light_dressing_pass.Light_dressing_pass_C' with ClassGeneratedBy '/Game/Maps/Light_dressing_pass.Light_dressing_pass:PersistentLevel.Light_dressing_pass'
+[2020.04.10-09.41.51:887][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-09.41.51:917][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-09.41.51:920][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.10-09.41.51:928][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.04.10-09.41.51:962][449]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.04.10-09.42.01:890][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-09.42.01:924][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.10-09.42.02:373][274]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_pass78B1F68F46A9A6BA89C3A38995AB2044.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap'
+[2020.04.10-09.42.02:421][274]AssetCheck: New page: Asset Save: Light_dressing_pass
+[2020.04.10-09.42.02:421][274]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
+[2020.04.10-09.42.27:435][312]LogActorFactory: Actor Factory created Cube
+[2020.04.10-09.42.29:716][462]LogActorFactory: Actor Factory created Cube
+[2020.04.10-09.42.45:055][636]Cmd: EDIT COPY
+[2020.04.10-09.42.45:264][650]Cmd: EDIT PASTE
+[2020.04.10-09.42.51:761][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.10-09.42.52:533][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.10-09.42.54:494][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.04.10-09.43.18:240][103]Cmd: EDIT COPY
+[2020.04.10-09.43.18:467][120]Cmd: EDIT PASTE
+[2020.04.10-09.43.52:461][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.04.10-09.44.00:101][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bunker_wall44)
+[2020.04.10-09.44.09:849][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.04.10-09.44.20:384][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bunker_wall44)
+[2020.04.10-09.44.28:206][175]Cmd: EDIT COPY
+[2020.04.10-09.44.28:418][190]Cmd: EDIT PASTE
+[2020.04.10-09.44.38:893][922]Cmd: TRANSACTION UNDO
+[2020.04.10-09.44.38:894][922]LogEditorTransaction: Undo Scale Actors
+[2020.04.10-09.44.38:900][922]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.04.10-09.44.38:950][922]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.10-09.44.38:950][922]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-09.44.38:950][922]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.10-09.44.38:950][922]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.10-09.44.39:453][929]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.10-09.44.39:731][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.10-09.44.39:755][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.10-09.44.39:756][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.10-09.44.40:173][963]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.10-09.44.40:548][982]MaterialEditorStats: Base pass shader: 124 instructions
+[2020.04.10-09.44.40:548][982]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2020.04.10-09.44.40:548][982]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.10-09.44.40:548][982]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.10-09.44.40:548][982]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.10-09.44.40:548][982]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.10-09.44.46:581][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bunker_post39)
+[2020.04.10-09.45.13:186][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-09.45.13:221][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.04.10-09.45.13:667][279]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_pass15035D5F4365E36F35F63387E862F189.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap'
+[2020.04.10-09.45.13:712][279]AssetCheck: New page: Asset Save: Light_dressing_pass
+[2020.04.10-09.45.13:712][279]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
+[2020.04.10-09.45.58:472][133]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Bang_And_Fallout.SFX_FL_Med_Bang_And_Fallout
+[2020.04.10-09.47.57:564][998]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Whirring.SFX_FL_Med_Whirring
+[2020.04.10-09.49.25:201][714]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_13_Short_Choked_Thunder.SFX_INS_13_Short_Choked_Thunder
+[2020.04.10-09.49.50:705][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.10-09.49.50:744][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.10-09.49.51:200][424]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_pass87096BC74B28CEE730A498A9D51FE4A8.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap'
+[2020.04.10-09.49.51:230][424]LogFileHelpers: Saving map 'Light_dressing_pass' took 0.526
+[2020.04.10-09.49.51:275][424]AssetCheck: New page: Asset Save: Light_dressing_pass
+[2020.04.10-09.49.51:275][424]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
+[2020.04.10-09.50.09:145][286]MapCheck: New page: Map Check
+[2020.04.10-09.50.09:162][286]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.10-09.50.09:162][286]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.10-09.50.09:415][286]LogWorld: UWorld::CleanupWorld for Light_dressing_pass, bSessionEnded=true, bCleanupResources=false
+[2020.04.10-09.50.09:450][286]LightingResults: New page: Lighting Build - 10 Apr 2020, 11:50:09
+[2020.04.10-09.50.09:850][286]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.10-09.50.09:953][286]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.10-09.50.09:972][286]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.10-09.50.10:984][286]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.10-09.50.10:984][286]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5604
+[2020.04.10-09.50.13:692][286]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.10-09.50.13:693][286]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.10-09.50.13:693][286]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.10-09.50.13:693][286]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.10-09.50.13:693][286]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.10-09.50.13:693][286]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.10-09.50.13:888][286]LogEditorBuildUtils: Build time 0:04
+[2020.04.10-09.50.13:919][286]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2020.04.10-09.50.13:932][286]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2020.04.10-09.50.13:986][286]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.10-09.50.13:986][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.10-09.50.13:986][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.10-09.50.13:986][286]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.10-09.50.14:010][287]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Wall, compiling. 
+[2020.04.10-09.50.14:030][287]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Wall, compiling. 
+[2020.04.10-09.50.14:131][288]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer red, compiling. 
+[2020.04.10-09.50.14:148][288]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer red, compiling. 
+[2020.04.10-09.50.14:439][292]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.10-09.50.14:506][293]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.10-09.50.14:506][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.10-09.50.14:578][294]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.10-09.50.14:888][299]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.10-09.50.17:329][353]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer water, compiling. 
+[2020.04.10-09.50.17:343][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.10-09.50.17:343][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.10-09.50.17:343][353]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer water, compiling. 
+[2020.04.10-09.50.17:360][354]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.10-09.50.17:360][354]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.10-09.50.19:860][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.04.10-09.50.34:346][638]LightingResults: Warning: bunk_stairs Object has overlapping UVs.
+[2020.04.10-09.50.34:346][638]LightingResults: bunk_stairs Lightmap UV are overlapping by 8.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.10-09.50.37:036][646]LightingResults: Warning: bunk_stairs Object has overlapping UVs.
+[2020.04.10-09.50.37:036][646]LightingResults: bunk_stairs Lightmap UV are overlapping by 8.0%. Please adjust content - Enable Error Coloring to visualize.
