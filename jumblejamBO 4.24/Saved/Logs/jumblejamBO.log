@@ -4360,3 +4360,73 @@ Make sure 'Light_dressing_pass_C' has been compiled for  Get isClipOnePlayed
 [2020.04.11-13.06.32:888][893]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
 [2020.04.11-13.06.32:888][893]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Light_dressing_pass_BuiltData.Light_dressing_pass_BuiltData
 [2020.04.11-13.06.57:104][359]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.SFX_FL_Med_Door_And_Scratching
+[2020.04.11-13.08.38:113][635]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPersonBP/SFX/SFX_INS_13_Short_Choked_Thunder.SFX_INS_13_Short_Choked_Thunder
+[2020.04.11-13.09.05:566][404]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_13_Short_Choked_Thunder8A79275A4982249528C6E7A88BE576E9.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INS_13_Short_Choked_Thunder.uasset'
+[2020.04.11-13.09.05:585][404]AssetCheck: New page: Asset Save: SFX_INS_13_Short_Choked_Thunder
+[2020.04.11-13.09.05:585][404]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INS_13_Short_Choked_Thunder.SFX_INS_13_Short_Choked_Thunder
+[2020.04.11-13.09.08:396][665]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_Door_And_ScratchingC094F1A1477F299989156DB006BBCBCE.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.uasset'
+[2020.04.11-13.09.08:412][665]AssetCheck: New page: Asset Save: SFX_FL_Med_Door_And_Scratching
+[2020.04.11-13.09.08:412][665]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.SFX_FL_Med_Door_And_Scratching
+[2020.04.11-13.09.13:848][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/UI/StartUI" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/Blueprints/UI/StartUI.uasset" SILENT=true
+[2020.04.11-13.09.13:863][178]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/StartUI43F82B2D4BBE45E189AA348F5A42C8CB.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/Blueprints/UI/StartUI.uasset'
+[2020.04.11-13.09.13:877][178]AssetCheck: New page: Asset Save: StartUI
+[2020.04.11-13.09.13:878][178]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/StartUI.StartUI
+[2020.04.11-13.09.15:088][263]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.09.15:089][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.09.15:094][263]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.09.15:094][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.09.16:138][359]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_10_Short_Half_Life315CD5E64695D23902B78184E51E879D.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INS_10_Short_Half_Life.uasset'
+[2020.04.11-13.09.16:158][359]AssetCheck: New page: Asset Save: SFX_INS_10_Short_Half_Life
+[2020.04.11-13.09.16:159][359]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INS_10_Short_Half_Life.SFX_INS_10_Short_Half_Life
+[2020.04.11-13.09.18:732][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.11-13.09.18:804][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.04.11-13.09.19:305][569]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_passD613A1B14D9A9C1A7F78298BB5A3660E.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap'
+[2020.04.11-13.09.19:337][569]LogFileHelpers: Saving map 'Light_dressing_pass' took 0.607
+[2020.04.11-13.09.19:375][569]AssetCheck: New page: Asset Save: Light_dressing_pass
+[2020.04.11-13.09.19:375][569]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
+[2020.04.11-13.09.20:731][683]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.09.20:731][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.09.22:014][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Dropping" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Dropping.uasset" SILENT=true
+[2020.04.11-13.09.22:020][802]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_Dropping7F8DE325495E2A5B427BC7965BBDD997.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Dropping.uasset'
+[2020.04.11-13.09.22:035][802]AssetCheck: New page: Asset Save: SFX_FL_Short_Dropping
+[2020.04.11-13.09.22:035][802]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Dropping.SFX_FL_Short_Dropping
+[2020.04.11-13.09.24:030][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Unsure" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Unsure.uasset" SILENT=true
+[2020.04.11-13.09.24:036][996]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_UnsureB9FB2AD24942255C0853A6BD9025AEEC.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Unsure.uasset'
+[2020.04.11-13.09.24:049][996]AssetCheck: New page: Asset Save: SFX_FL_Short_Unsure
+[2020.04.11-13.09.24:049][996]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Unsure.SFX_FL_Short_Unsure
+[2020.04.11-13.09.26:034][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Med_Whirring" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Whirring.uasset" SILENT=true
+[2020.04.11-13.09.26:044][182]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_WhirringB58E124C4404DFF8382E929E6C7628B3.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Whirring.uasset'
+[2020.04.11-13.09.26:062][182]AssetCheck: New page: Asset Save: SFX_FL_Med_Whirring
+[2020.04.11-13.09.26:062][182]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Whirring.SFX_FL_Med_Whirring
+[2020.04.11-13.09.27:815][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Clang" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Clang.uasset" SILENT=true
+[2020.04.11-13.09.27:821][351]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_Clang687D66CA470836083DD2038A4CFACC67.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Clang.uasset'
+[2020.04.11-13.09.27:839][351]AssetCheck: New page: Asset Save: SFX_FL_Short_Clang
+[2020.04.11-13.09.27:839][351]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Clang.SFX_FL_Short_Clang
+[2020.04.11-13.09.31:713][722]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_17_Short_Metal_SliceB7D196734C5482E4202832BBEC62DCCE.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INS_17_Short_Metal_Slice.uasset'
+[2020.04.11-13.09.31:731][722]AssetCheck: New page: Asset Save: SFX_INS_17_Short_Metal_Slice
+[2020.04.11-13.09.31:731][722]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INS_17_Short_Metal_Slice.SFX_INS_17_Short_Metal_Slice
+[2020.04.11-13.09.34:175][945]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_14_Long_Wipers_RhythmicC15DE084463EA9DF5F9849B6761496B8.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INS_14_Long_Wipers_Rhythmic.uasset'
+[2020.04.11-13.09.34:192][945]AssetCheck: New page: Asset Save: SFX_INS_14_Long_Wipers_Rhythmic
+[2020.04.11-13.09.34:192][945]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INS_14_Long_Wipers_Rhythmic.SFX_INS_14_Long_Wipers_Rhythmic
+[2020.04.11-13.09.35:701][ 92]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_16_Long_Moving_Grumble7A02EE8B4B4F135769CE8E9B70C29AD6.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INS_16_Long_Moving_Grumble.uasset'
+[2020.04.11-13.09.35:717][ 92]AssetCheck: New page: Asset Save: SFX_INS_16_Long_Moving_Grumble
+[2020.04.11-13.09.35:717][ 92]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INS_16_Long_Moving_Grumble.SFX_INS_16_Long_Moving_Grumble
+[2020.04.11-13.09.37:734][274]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INS_21_Long_Trippy_Wail24F4AB01466F2D4AA45A2BA2E30BEF3F.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INS_21_Long_Trippy_Wail.uasset'
+[2020.04.11-13.09.37:753][274]AssetCheck: New page: Asset Save: SFX_INS_21_Long_Trippy_Wail
+[2020.04.11-13.09.37:753][274]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INS_21_Long_Trippy_Wail.SFX_INS_21_Long_Trippy_Wail
+[2020.04.11-13.09.38:543][349]LogSlate: Window 'SFX_INS_21_Long_Trippy_Wail' being destroyed
+[2020.04.11-13.10.37:685][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bunker_wall8)
+[2020.04.11-13.10.47:084][894]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/Textures/Wall.Wall
+[2020.04.11-13.10.47:088][894]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.10.47:089][894]LogMaterial: Warning: /Engine/Transient.Wall (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.11-13.10.47:089][894]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.11-13.10.47:245][894]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.10.47:246][894]LogMaterial: Warning: /Engine/Transient.Wall (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.11-13.10.47:246][894]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.11-13.10.47:251][894]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.10.47:252][894]LogMaterial: Warning: /Engine/Transient.Wall (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.11-13.10.47:252][894]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.11-13.10.47:265][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.11-13.10.47:269][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.11-13.10.47:274][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.11-13.10.47:305][894]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
