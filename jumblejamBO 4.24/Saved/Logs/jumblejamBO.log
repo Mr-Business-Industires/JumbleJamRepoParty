@@ -4430,3 +4430,100 @@ Make sure 'Light_dressing_pass_C' has been compiled for  Get isClipOnePlayed
 [2020.04.11-13.10.47:269][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
 [2020.04.11-13.10.47:274][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
 [2020.04.11-13.10.47:305][894]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.04.11-13.13.07:859][299]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\Repos\JumbleJamRepoParty\assets\Textures\Wall\bunker wall2_lambert1_OcclusionRoughnessMetallic.png)
+[2020.04.11-13.13.08:003][299]LogTexture: Display: Building textures: bunker_wall2_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.04.11-13.13.08:565][299]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\Repos\JumbleJamRepoParty\assets\Textures\Wall\bunker wall2_lambert1_BaseColor.png)
+[2020.04.11-13.13.08:694][299]LogTexture: Display: Building textures: bunker_wall2_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.04.11-13.13.09:163][299]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\Repos\JumbleJamRepoParty\assets\Textures\Wall\bunker wall2_lambert1_Normal.png)
+[2020.04.11-13.13.09:431][299]LogTexture: Display: Building textures: bunker_wall2_lambert1_Normal (BC5, 2048X2048)
+[2020.04.11-13.13.21:928][142]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.13.21:929][142]LogMaterial: Warning: /Engine/Transient.Wall (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.11-13.13.21:929][142]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.11-13.13.21:939][142]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.11-13.13.21:949][142]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-13.13.21:950][142]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-13.13.21:950][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-13.13.21:950][142]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.11-13.13.21:954][142]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.13.21:955][142]LogMaterial: Warning: /Engine/Transient.Wall (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.11-13.13.21:955][142]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.11-13.13.26:474][470]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.13.26:475][470]LogMaterial: Warning: /Engine/Transient.Wall (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.11-13.13.26:475][470]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.11-13.13.26:489][470]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.11-13.13.26:498][470]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-13.13.26:498][470]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-13.13.26:498][470]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-13.13.26:498][470]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.11-13.13.26:503][470]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.13.26:503][470]LogMaterial: Warning: /Engine/Transient.Wall (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.11-13.13.26:503][470]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.11-13.13.29:876][704]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.13.29:891][704]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9 
+[2020.04.11-13.13.29:891][704]LogShaderCompilers: Display: orker (4/5): shaders left to compile 8
+[2020.04.11-13.13.29:896][704]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.11-13.13.29:896][704]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.11-13.13.29:896][704]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.11-13.13.29:910][704]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.13.30:593][736]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.04.11-13.13.30:650][739]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.04.11-13.13.30:666][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.11-13.13.30:698][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.04.11-13.13.31:074][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.11-13.13.31:126][766]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.04.11-13.13.31:126][766]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.04.11-13.13.31:190][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.11-13.13.31:888][806]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.11-13.13.31:964][808]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.11-13.13.32:004][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.11-13.13.32:005][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.11-13.13.32:247][824]LogMaterialEditor: Saving and Compiling material Wall
+[2020.04.11-13.13.32:974][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.11-13.13.32:974][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-13.13.32:974][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.11-13.13.32:985][824]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.13.33:094][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.11-13.13.33:094][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.11-13.13.33:094][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.11-13.13.33:094][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.11-13.13.33:213][824]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2020.04.11-13.13.33:530][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.04.11-13.13.33:574][824]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.04.11-13.13.34:789][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.11-13.13.34:799][824]TextureStreamingBuild: Display: Compiling optional shaders took 1.242 seconds.
+[2020.04.11-13.13.34:849][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.04.11-13.13.37:162][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.11-13.13.37:162][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-13.13.37:162][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.11-13.13.37:162][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.11-13.13.37:196][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Textures/Wall" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Geometry/Meshes/Textures/Wall.uasset" SILENT=true
+[2020.04.11-13.13.37:213][824]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/WallF45D3C0F480AF265516E229A6DA75A2D.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Geometry/Meshes/Textures/Wall.uasset'
+[2020.04.11-13.13.37:257][824]AssetCheck: New page: Asset Save: Wall
+[2020.04.11-13.13.37:257][824]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/Textures/Wall.Wall
+[2020.04.11-13.13.37:264][824]MaterialEditorStats: Base pass shader: 128 instructions
+[2020.04.11-13.13.37:264][824]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2020.04.11-13.13.37:264][824]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2020.04.11-13.13.37:264][824]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.11-13.13.37:264][824]MaterialEditorStats: Texture samplers: 6/16
+[2020.04.11-13.13.37:264][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.04.11-13.13.37:264][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.11-13.13.38:431][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.11-13.13.38:464][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.11-13.13.38:889][914]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_passD46AC04A4D306EAFF311E0AF66245795.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass.umap'
+[2020.04.11-13.13.38:920][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Light_dressing_pass_BuiltData" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass_BuiltData.uasset" SILENT=true
+[2020.04.11-13.13.39:461][914]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Light_dressing_pass_BuiltDataFF1381E74E0C985CD680129A1AB0A0B8.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/Maps/Light_dressing_pass_BuiltData.uasset'
+[2020.04.11-13.13.39:486][914]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.11-13.13.39:486][914]LogContentValidation: Display: Validating World /Game/Maps/Light_dressing_pass.Light_dressing_pass
+[2020.04.11-13.13.39:486][914]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Light_dressing_pass_BuiltData.Light_dressing_pass_BuiltData
