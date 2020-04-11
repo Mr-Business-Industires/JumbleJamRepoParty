@@ -720,3 +720,328 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.11-11.00.06:320][781]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
 [2020.04.11-11.00.07:518][857]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
 [2020.04.11-11.00.08:125][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.11-11.03.19:424][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bunker_wall16)
+[2020.04.11-11.03.39:184][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bunker_door)
+[2020.04.11-11.17.44:102][  1]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture3)
+[2020.04.11-11.17.44:868][ 86]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.04.11-11.17.45:788][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.11-11.18.22:994][450]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/Materials/Glowyobjects.Glowyobjects
+[2020.04.11-11.18.22:998][450]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.18.23:459][450]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.18.23:472][450]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.18.23:484][450]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.11-11.18.23:484][450]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.11-11.18.23:484][450]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.11-11.18.23:484][450]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.11-11.18.23:540][450]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.11-11.18.24:137][472]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.11-11.18.24:410][489]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.04.11-11.18.24:431][490]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.11-11.18.24:497][494]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.11-11.18.24:881][517]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.11-11.18.25:242][543]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.11-11.18.25:242][543]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.11-11.18.25:242][543]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-11.18.25:242][543]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-11.18.53:000][237]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.18.53:013][237]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.11-11.18.53:013][237]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.11-11.18.53:013][237]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.11-11.18.53:013][237]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.11-11.18.53:013][237]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.18.53:627][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.11-11.18.53:893][285]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.11-11.18.53:910][286]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.11-11.18.53:910][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.11-11.18.54:348][312]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.11-11.18.54:349][312]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-11.18.54:519][323]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.11-11.18.54:595][328]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.11-11.18.54:801][341]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.11-11.18.54:827][342]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.11-11.18.54:827][342]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.11-11.18.54:827][342]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-11.18.54:827][342]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-11.18.56:583][502]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.18.56:595][502]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.11-11.18.56:595][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.11-11.18.56:595][502]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.11-11.18.56:595][502]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.11-11.18.56:600][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.18.57:019][522]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.11-11.18.57:296][540]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.11-11.18.57:311][541]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.11-11.18.57:311][541]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.11-11.18.57:729][568]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.11-11.18.57:745][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.11-11.18.57:908][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-11.18.57:945][580]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.11-11.18.58:195][594]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.11-11.18.58:224][595]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.11-11.18.58:224][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.11-11.18.58:224][595]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-11.18.58:224][595]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-11.19.02:996][ 25]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.03:018][ 25]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-11.19.03:018][ 25]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-11.19.03:018][ 25]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-11.19.03:018][ 25]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.11-11.19.03:025][ 25]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.03:048][ 25]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.03:066][ 25]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.03:465][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.04.11-11.19.03:465][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.04.11-11.19.03:580][ 53]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.11-11.19.03:580][ 53]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.11-11.19.03:994][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.11-11.19.04:009][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.11-11.19.04:024][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.11-11.19.04:024][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.11-11.19.04:478][107]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.11-11.19.04:727][122]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.11-11.19.04:759][124]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-11.19.04:759][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-11.19.05:133][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.11-11.19.05:513][174]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.11-11.19.05:513][174]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.11-11.19.05:513][174]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-11.19.05:513][174]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-11.19.06:133][232]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.06:146][232]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.06:156][232]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-11.19.06:156][232]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-11.19.06:156][232]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-11.19.06:156][232]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.11-11.19.06:163][232]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.06:184][232]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.06:208][232]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.06:224][232]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.06:590][251]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.11-11.19.06:590][251]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.11-11.19.06:714][259]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.11-11.19.06:714][259]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.11-11.19.07:076][280]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.07:096][280]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.07:117][280]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.07:128][280]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.11-11.19.07:128][280]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.11-11.19.07:132][280]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.11-11.19.07:139][280]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.04.11-11.19.07:139][280]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.07:170][280]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.07:195][280]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.07:568][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.11-11.19.07:690][307]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.04.11-11.19.07:744][310]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.11-11.19.07:836][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.11-11.19.08:097][332]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.11-11.19.08:165][336]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.11-11.19.08:263][342]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.11-11.19.08:284][343]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.11-11.19.08:686][368]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.11-11.19.08:835][377]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-11.19.08:942][384]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.11-11.19.09:007][388]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.11-11.19.09:336][408]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.04.11-11.19.09:712][435]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.11-11.19.09:712][435]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.11-11.19.09:712][435]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-11.19.09:712][435]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-11.19.10:175][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.10:187][480]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-11.19.10:187][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-11.19.10:187][480]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-11.19.10:187][480]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.11-11.19.10:187][480]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.10:203][480]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.10:224][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.10:246][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.10:262][480]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.10:626][500]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.11-11.19.10:646][501]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.11-11.19.10:760][508]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.11-11.19.10:777][509]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.04.11-11.19.11:245][537]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.04.11-11.19.11:245][537]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.11-11.19.11:261][538]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.11-11.19.11:261][538]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.04.11-11.19.11:670][564]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.04.11-11.19.11:935][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.04.11-11.19.11:970][582]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.11-11.19.11:987][583]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-11.19.12:383][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.11-11.19.12:743][635]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.11-11.19.12:743][635]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.11-11.19.12:743][635]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-11.19.12:743][635]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-11.19.12:834][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.12:846][644]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-11.19.12:846][644]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.11-11.19.12:846][644]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.11-11.19.12:846][644]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.11-11.19.12:846][644]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.12:868][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.11-11.19.12:883][644]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.12:899][644]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.11-11.19.13:355][670]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.11-11.19.13:427][674]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.11-11.19.13:511][679]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.11-11.19.13:527][680]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.04.11-11.19.14:006][708]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.11-11.19.14:022][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.11-11.19.14:039][710]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.11-11.19.14:100][714]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.11-11.19.14:501][739]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.11-11.19.14:733][753]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.11-11.19.14:798][757]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.11-11.19.14:813][758]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.11-11.19.15:187][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.11-11.19.15:556][809]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.11-11.19.15:556][809]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.11-11.19.15:556][809]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-11.19.15:556][809]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-11.19.28:797][ 99]LogMaterial: Display: Missing cached shader map for material Glowyobjects, compiling. 
+[2020.04.11-11.19.28:812][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.11-11.19.28:812][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.11-11.19.28:812][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.11-11.19.28:812][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.11-11.19.28:812][ 99]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.11-11.19.29:244][125]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.11-11.19.29:590][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.11-11.19.29:609][146]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.11-11.19.29:609][146]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.11-11.19.29:969][167]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.11-11.19.30:339][191]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.11-11.19.30:339][191]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.11-11.19.30:339][191]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.11-11.19.30:339][191]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.11-11.22.04:152][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.04.11-11.22.04:153][461]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Light_dressing_pass' took 0.026
+[2020.04.11-11.22.04:379][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Materials/Glowyobjects] ([1] browsable assets)...
+[2020.04.11-11.22.04:392][461]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Materials/Glowyobjects.Glowyobjects]
+[2020.04.11-11.22.04:393][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Materials/Glowyobjects]
+[2020.04.11-11.22.04:427][461]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Glowyobjects_Auto12D916CAD43A51D15193E42AF12745B34.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/Autosaves/Game/FirstPersonBP/Materials/Glowyobjects_Auto1.uasset'
+[2020.04.11-11.22.04:429][461]LogFileHelpers: Auto-saving content packages took 0.275
+[2020.04.11-11.25.18:925][422]AssetReimport: New page: Outstanding source content changes 13:25:18
+[2020.04.11-11.25.18:977][422]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/TRIPPYDIPPYFLANGE_bip_1_online-audio-converter.com.wav)
+[2020.04.11-11.25.20:216][423]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_6.wav)
+[2020.04.11-11.25.20:428][424]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_7.wav)
+[2020.04.11-11.25.20:642][425]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_8.wav)
+[2020.04.11-11.25.20:808][426]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_9.wav)
+[2020.04.11-11.25.21:013][427]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_10.wav)
+[2020.04.11-11.25.21:282][428]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_LongAF_Drips_And_Atmosphere.wav)
+[2020.04.11-11.25.25:303][429]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Bang_And_Fallout.wav)
+[2020.04.11-11.25.25:683][430]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Banging.wav)
+[2020.04.11-11.25.25:983][431]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano.wav)
+[2020.04.11-11.25.26:501][432]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.wav)
+[2020.04.11-11.25.26:745][433]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Just_Drips.wav)
+[2020.04.11-11.25.27:342][434]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Mechanical.wav)
+[2020.04.11-11.25.27:559][435]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Whirring.wav)
+[2020.04.11-11.25.27:886][436]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Bang.wav)
+[2020.04.11-11.25.27:989][437]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Clang.wav)
+[2020.04.11-11.25.28:107][438]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Dropping.wav)
+[2020.04.11-11.25.28:223][439]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic.wav)
+[2020.04.11-11.25.28:328][440]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Unsure 2.wav)
+[2020.04.11-11.25.28:439][441]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Unsure.wav)
+[2020.04.11-11.25.28:555][442]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_1.wav)
+[2020.04.11-11.25.28:729][443]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_2.wav)
+[2020.04.11-11.25.28:905][444]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_3.wav)
+[2020.04.11-11.25.29:081][445]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_4.wav)
+[2020.04.11-11.25.29:259][446]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_5.wav)
+[2020.04.11-11.25.29:590][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/TRIPPYDIPPYFLANGE_bip_1_online-aB0FE497147121B87160D4CADA9419F5D.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/TRIPPYDIPPYFLANGE_bip_1_online-audio-converter_com.uasset'
+[2020.04.11-11.25.29:596][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_6" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_6.uasset" SILENT=true
+[2020.04.11-11.25.29:602][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_6F6EF4BA24E75815A70BBC9ADCB700DC3.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_6.uasset'
+[2020.04.11-11.25.29:608][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_7" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_7.uasset" SILENT=true
+[2020.04.11-11.25.29:614][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_751DB05164E4CA5BBA7EB8987EB778CE5.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_7.uasset'
+[2020.04.11-11.25.29:621][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_8" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_8.uasset" SILENT=true
+[2020.04.11-11.25.29:627][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_817DD40B944C7128EC71B31B572DA6CD2.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_8.uasset'
+[2020.04.11-11.25.29:635][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_9" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_9.uasset" SILENT=true
+[2020.04.11-11.25.29:642][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_90F8BE30046729ADFEB2EA3A3AE9F6341.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_9.uasset'
+[2020.04.11-11.25.29:649][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_10" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_10.uasset" SILENT=true
+[2020.04.11-11.25.29:656][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_1004A24D074B71BB6F8F5AEE81A29AEA40.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_10.uasset'
+[2020.04.11-11.25.30:107][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_LongAF_Drips_And_Atmosphe4AD489DD499DA228173850A070DF4805.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_LongAF_Drips_And_Atmosphere.uasset'
+[2020.04.11-11.25.30:124][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_Bang_And_Fallout992D499742E60DA988692C980A76A14D.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Bang_And_Fallout.uasset'
+[2020.04.11-11.25.30:132][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Med_Banging" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Banging.uasset" SILENT=true
+[2020.04.11-11.25.30:140][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_Banging5591EF9447C43255914F2187DA6827D3.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Banging.uasset'
+[2020.04.11-11.25.30:150][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano.uasset" SILENT=true
+[2020.04.11-11.25.30:159][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_BowedPiano0FCFD1284807DF31573EE3A5224F803A.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano.uasset'
+[2020.04.11-11.25.30:178][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_Door_And_ScratchingF4A46B3A4BA32F0CDD7092ADA0C11E79.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.uasset'
+[2020.04.11-11.25.30:189][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Med_Just_Drips" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Just_Drips.uasset" SILENT=true
+[2020.04.11-11.25.30:199][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_Just_Drips50A8FAAC4FFC5954FEB4F7ABFEB2B2B8.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Just_Drips.uasset'
+[2020.04.11-11.25.30:206][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Med_Mechanical" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Mechanical.uasset" SILENT=true
+[2020.04.11-11.25.30:213][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_Mechanical79EFBC4A4549257470C059A9F599BF52.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Mechanical.uasset'
+[2020.04.11-11.25.30:221][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Med_Whirring" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Whirring.uasset" SILENT=true
+[2020.04.11-11.25.30:233][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Med_WhirringD961E017464E1C67FA8635BF857CB92C.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Med_Whirring.uasset'
+[2020.04.11-11.25.30:240][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Bang" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Bang.uasset" SILENT=true
+[2020.04.11-11.25.30:248][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_Bang0A656AE24680D143F69C66952645241A.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Bang.uasset'
+[2020.04.11-11.25.30:256][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Clang" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Clang.uasset" SILENT=true
+[2020.04.11-11.25.30:264][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_ClangB78F0FDB444B57424DF80BB82BFCDC56.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Clang.uasset'
+[2020.04.11-11.25.30:270][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Dropping" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Dropping.uasset" SILENT=true
+[2020.04.11-11.25.30:276][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_Dropping8A713C8D4A00F263FAF795B85ECAE5BA.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Dropping.uasset'
+[2020.04.11-11.25.30:282][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic.uasset" SILENT=true
+[2020.04.11-11.25.30:289][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_Hydraulic9884CA6F445CFB201B7283B07CDAE654.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic.uasset'
+[2020.04.11-11.25.30:295][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Unsure_2" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Unsure_2.uasset" SILENT=true
+[2020.04.11-11.25.30:306][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_Unsure_25E6188944CB7D6DD0E2D608E3BB455E7.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Unsure_2.uasset'
+[2020.04.11-11.25.30:315][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_FL_Short_Unsure" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Unsure.uasset" SILENT=true
+[2020.04.11-11.25.30:321][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_FL_Short_Unsure92F63E06434E22C82208609F6F49BA7B.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_FL_Short_Unsure.uasset'
+[2020.04.11-11.25.30:327][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_1" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_1.uasset" SILENT=true
+[2020.04.11-11.25.30:335][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_1BCFD40A948AFBAE5A449D19816F3D0EB.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_1.uasset'
+[2020.04.11-11.25.30:342][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_2" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_2.uasset" SILENT=true
+[2020.04.11-11.25.30:350][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_2C9AC87A14AECBFE4966A30BA4099D390.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_2.uasset'
+[2020.04.11-11.25.30:358][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_3" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_3.uasset" SILENT=true
+[2020.04.11-11.25.30:365][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_3EBCD7E2A41F827FD11896C850B2474B6.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_3.uasset'
+[2020.04.11-11.25.30:372][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_4" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_4.uasset" SILENT=true
+[2020.04.11-11.25.30:380][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_4DEB8D1D346B176AE38A91597A15C61A2.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_4.uasset'
+[2020.04.11-11.25.30:388][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SFX/SFX_INT_PNO_5" FILE="E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_5.uasset" SILENT=true
+[2020.04.11-11.25.30:396][447]LogSavePackage: Moving 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Saved/SFX_INT_PNO_59CDD0E1F49AE4E269146638DC85DB7E9.tmp' to 'E:/Repos/JumbleJamRepoParty/jumblejamBO 4.24/Content/FirstPersonBP/SFX/SFX_INT_PNO_5.uasset'
+[2020.04.11-11.25.30:635][448]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/TRIPPYDIPPYFLANGE_bip_1_online-audio-converter_com.TRIPPYDIPPYFLANGE_bip_1_online-audio-converter_com
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_6.SFX_INT_PNO_6
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_7.SFX_INT_PNO_7
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_8.SFX_INT_PNO_8
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_9.SFX_INT_PNO_9
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_10.SFX_INT_PNO_10
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_LongAF_Drips_And_Atmosphere.SFX_FL_LongAF_Drips_And_Atmosphere
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Bang_And_Fallout.SFX_FL_Med_Bang_And_Fallout
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Banging.SFX_FL_Med_Banging
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano.SFX_FL_Med_BowedPiano
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.SFX_FL_Med_Door_And_Scratching
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Just_Drips.SFX_FL_Med_Just_Drips
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Mechanical.SFX_FL_Med_Mechanical
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Med_Whirring.SFX_FL_Med_Whirring
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Bang.SFX_FL_Short_Bang
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Clang.SFX_FL_Short_Clang
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Dropping.SFX_FL_Short_Dropping
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic.SFX_FL_Short_Hydraulic
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Unsure_2.SFX_FL_Short_Unsure_2
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_FL_Short_Unsure.SFX_FL_Short_Unsure
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_1.SFX_INT_PNO_1
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_2.SFX_INT_PNO_2
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_3.SFX_INT_PNO_3
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_4.SFX_INT_PNO_4
+[2020.04.11-11.25.30:635][448]LogContentValidation: Display: Validating SoundWave /Game/FirstPersonBP/SFX/SFX_INT_PNO_5.SFX_INT_PNO_5
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/TRIPPYDIPPYFLANGE_bip_1_online-audio-converter_com.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_6.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_7.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_8.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_9.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_10.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_LongAF_Drips_And_Atmosphere.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Med_Bang_And_Fallout.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Med_Banging.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Med_BowedPiano.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Med_Door_And_Scratching.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Med_Just_Drips.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Med_Mechanical.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Med_Whirring.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Short_Bang.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Short_Clang.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Short_Dropping.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Short_Hydraulic.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Short_Unsure_2.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_FL_Short_Unsure.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_1.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_2.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_3.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_4.
+[2020.04.11-11.25.33:417][698]AssetReimport: Importing new asset /Game/FirstPersonBP/SFX/SFX_INT_PNO_5.
